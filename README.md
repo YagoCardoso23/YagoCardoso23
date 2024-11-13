@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-cardoso-2a2046240/)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](yagobastoscardoso@gmail.com)
 
-![Yago GitHub stats](https://github-readme-stats.vercel.app/api?username=yagocardoso23&show_icons=true&theme=dracula)
+
 
 ## Tecnologias que eu uso no meu dia 
 
